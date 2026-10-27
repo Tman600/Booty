@@ -1,0 +1,16 @@
+{
+  "name": "Booty",
+  "author": "Tman600",
+  "flags": [
+    "root"
+  ],
+  "api_version": 1,
+  "publish": {
+    "tags": [
+      "root",
+      "utility"
+    ],
+    "description": "Switch to another OS from the power menu or Quick Access, and set up a second OS without leaving Game Mode.",
+    "image": "https://raw.githubusercontent.com/Tman600/Booty/main/assets/store-image.png"
+  }
+}

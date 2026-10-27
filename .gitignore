@@ -1,0 +1,19 @@
+# Dependencies and build output
+node_modules/
+dist/
+out/
+__pycache__/
+
+# Decky CLI / loader files
+cli/
+decky_plugin.py
+
+# Editors and OS
+.vscode/settings.json
+.idea
+*.swp
+.DS_Store
+Thumbs.db
+
+# Secrets
+.env
